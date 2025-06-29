@@ -92,13 +92,6 @@ NumPy, Pandas
 Matplotlib, Seaborn
 ```
 
-### Installation
-```bash
-git clone https://github.com/NatalieCheong/Lumbar-Spine-Degenerative-Classification.git
-cd Lumbar-Spine-Degenerative-Classification
-pip install -r requirements.txt
-```
-
 ### Usage
 ```bash
 # Run the main classification script
@@ -107,14 +100,6 @@ python src/main.py
 # Or explore the Jupyter notebooks
 jupyter notebook notebooks/
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! This project aims to advance medical AI applications. Please feel free to:
-- Report bugs or issues
-- Suggest improvements
-- Submit pull requests
-- Share feedback on model performance
 
 ## 📄 Citation
 
